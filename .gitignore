@@ -144,3 +144,7 @@ projects/pong/obj/Debug/._DesignTimeResolveAssemblyReferencesInput.cache
 projects/._p4
 projects/._pong
 exercises/._BaseVideoCoreML
+.DS_Store
+exercises/.DS_Store
+exercises/howToInteract/.DS_Store
+exercises/iOS/.DS_Store
