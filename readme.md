@@ -49,10 +49,12 @@ Apple est le principal contributeur étant le créateur, nonobstant, une communa
 Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels avec certaines plateformes.
 
 ### **📁 Mini-projets**
+
 1. PetBook
 2. [Where is the chicken?](projects/whereIsTheChicken)
 <!-- 3. FoodApp <kbd>_Wip_</kbd> -->
 ### **🧪 Exercice**
+
 1. [Les intereactions avec l’utilisateur](exercises/howToInteract)
 <!-- 1. [Création d'une session vidéo](.exercises/BaseVideoCoreML) -->
 
@@ -63,6 +65,12 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 <!-- ## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
 <div align="center">
     <h2><a href="https://github.com/MiKL5/Java"><b><i>➜ Tout voir</i></b></a></h2>
+</div><br> -->
+
+<!-- ## **Flutter**
+
+<div align="center">
+    <h2><a href="https://github.com/MiKL5/Flutter"><b><i>➜ Tout voir</i></b></a></h2>
 </div><br> -->
 
 ## **C#** <a href=#><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
