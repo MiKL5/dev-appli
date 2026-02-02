@@ -148,3 +148,9 @@ exercises/._BaseVideoCoreML
 exercises/.DS_Store
 exercises/howToInteract/.DS_Store
 exercises/iOS/.DS_Store
+exercises/.idea/.gitignore
+exercises/.idea/.name
+exercises/.idea/misc.xml
+exercises/.idea/vcs.xml
+exercises/.idea/caches/deviceStreaming.xml
+firstFlutterProject/.idea/workspace.xml
