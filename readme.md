@@ -76,7 +76,6 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 ## **C#** <a href=#><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
 
 [Pong](projects/pong) <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>
-
 <!-- [Puissance4](projects/p4) <kbd>_**Wip**_</kbd> <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>   -->
 <!-- [Taxi autonome](projects/practice1) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
 <!-- [Casse-briques](projects/brickBreaker) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
