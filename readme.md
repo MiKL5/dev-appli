@@ -1,6 +1,6 @@
 # **Développement d’applications**
 
-## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
+## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/main/assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 Python est un langage de programmation interprété, orienté objet, et de haut niveau.
 
