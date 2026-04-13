@@ -62,10 +62,10 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
     <h2><a href="projects"><b><i>➜ Tout voir</i></b></a></h2>
 </div><br>
 
-<!-- ## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
+## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
 <div align="center">
     <h2><a href="https://github.com/MiKL5/Java"><b><i>➜ Tout voir</i></b></a></h2>
-</div><br> -->
+</div><br>
 
 <!-- ## **Flutter**
 
