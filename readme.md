@@ -51,7 +51,7 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 ### **📁 Mini-projets**
 
 1. PetBook
-2. [Where is the chicken?](projects/whereIsTheChicken)
+2. [Where is the chicken?](projects/swift/whereIsTheChicken)
 <!-- 3. FoodApp <kbd>_Wip_</kbd> -->
 ### **🧪 Exercice**
 
@@ -71,6 +71,11 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 
 <div align="center">
     <h2><a href="https://github.com/MiKL5/Flutter"><b><i>➜ Tout voir</i></b></a></h2>
+</div><br> -->
+
+<!-- ## **Rust** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rusgt" align="right" height="64px"></a>
+<div align="center">
+    <h2><a href=""><b><i>➜ Tout voir</i></b></a></h2>
 </div><br> -->
 
 ## **C#** <a href=#><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
