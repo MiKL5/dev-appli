@@ -62,10 +62,11 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
     <h2><a href="projects"><b><i>➜ Tout voir</i></b></a></h2>
 </div><br>
 
-## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
+<!-- ## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
+
 <div align="center">
     <h2><a href="https://github.com/MiKL5/Java"><b><i>➜ Tout voir</i></b></a></h2>
-</div><br>
+</div><br> -->
 
 <!-- ## **Flutter**
 
@@ -73,10 +74,13 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
     <h2><a href="https://github.com/MiKL5/Flutter"><b><i>➜ Tout voir</i></b></a></h2>
 </div><br> -->
 
-<!-- ## **Rust** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rusgt" align="right" height="64px"></a>
-<div align="center">
+## **Rust** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rusgt" align="right" height="64px"></a>
+1. [Calculatrice modulaire](projects/rust/calculator)
+
+<!-- <div align="center">
     <h2><a href=""><b><i>➜ Tout voir</i></b></a></h2>
 </div><br> -->
+<br><br>
 
 ## **C#** <a href=#><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
 
