@@ -19,6 +19,7 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
 [Dictionnaire de villes](https://github.com/MiKL5/Python/blob/master/miniProjets/dictionaryOfCities)  
 [Gestion de personnages](https://github.com/MiKL5/Python/blob/master/miniProjets/characterManagement)
 
+<br>
 <div align="center">
     <h2><a href="https://github.com/MiKL5/Python"><b><i>➜ Tout voir</i></b></a></h2>
 </div><br>
