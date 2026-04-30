@@ -31,7 +31,9 @@ Son gestionnaire de paquets intégré, `conda`, permet de créer des environneme
 
 Il est la référence pour tout projet d'IA ou de machine learning, du prototype jusqu'au déploiement enterprise.
 
-#### **Machine Learning**
+<br>
+
+<!-- #### **Machine Learning** -->
 
 <!-- > <h4>🧬 Apprentissage non supervisé</h4> -->
 
@@ -63,7 +65,7 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 
 1. [Les intereactions avec l’utilisateur](exercises/howToInteract)
 <!-- 1. [Création d'une session vidéo](.exercises/BaseVideoCoreML) -->
-
+<br>
 <div align="center">
     <h2><a href="projects"><b><i>➜ Aller voir</i></b></a></h2>
 </div><br>
