@@ -25,6 +25,12 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
 
 ### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 
+Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.
+
+Son gestionnaire de paquets intégré, `conda`, permet de créer des environnements virtuels isolés et reproductibles, évitant les conflits de dépendances qui fragilisent les projets en production. Il préinstalle nativement les librairies incontournables de l'écosystème data : NumPy, Pandas, scikit-learn, Matplotlib etc.
+
+Il est la référence pour tout projet d'IA ou de machine learning, du prototype jusqu'au déploiement enterprise.
+
 #### **Machine Learning**
 
 <!-- > <h4>🧬 Apprentissage non supervisé</h4> -->
@@ -59,7 +65,7 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 <!-- 1. [Création d'une session vidéo](.exercises/BaseVideoCoreML) -->
 
 <div align="center">
-    <h2><a href="projects"><b><i>➜ Tout voir</i></b></a></h2>
+    <h2><a href="projects"><b><i>➜ Aller voir</i></b></a></h2>
 </div><br>
 
 <!-- ## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
@@ -75,6 +81,14 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 </div><br> -->
 
 ## **Rust** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rusgt" align="right" height="64px"></a>
+C'est un langage de programmation compilé orienté systèmes, conçu pour offrir des performances comparables au C/C++ tout en garantissant la sûreté mémoire structurellement — sans garbage collector ni runtime.
+
+Sa particularité fondatrice réside dans son système d'*ownership* et son *borrow checker* : un mécanisme de typage statique qui élimine à la compilation des catégories entières de bugs<!-- (use-after-free, data races, déréférencement nul)-->, rendant les programmes à la fois rapide et fiables par construction.
+
+Polyvalent, il couvre aussi bien le développement système et embarqué, les services réseau haute performance, que la compilation vers WebAssembly.  Il est soutenu par une communauté open source active et des entreprises majeures telles que Mozilla, Dropbox et Cloudflare.
+
+<br>
+
 1. [Calculatrice modulaire](projects/rust/calculator)
 
 <!-- <div align="center">
@@ -82,9 +96,9 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 </div><br> -->
 <br><br>
 
-## **C#** <a href=https://github.com/MiKL5><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
+<!--## **C#** <a href=https://github.com/MiKL5><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
 
-[Pong](projects/pong) <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>
+[Pong](projects/pong) <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>-->
 <!-- [Puissance4](projects/p4) <kbd>_**Wip**_</kbd> <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>   -->
 <!-- [Taxi autonome](projects/practice1) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
 <!-- [Casse-briques](projects/brickBreaker) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
