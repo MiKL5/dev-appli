@@ -164,3 +164,6 @@ projects/Rust/calculator/target/
 projects/Rust/calculator/cargo.lock
 _rust
 _rust_
+miniProjects/rust/rust-cipher-vault/target/
+miniProjects/rust/formatted_nomination/target/
+miniProjects/rust/persona_snippet/target/
