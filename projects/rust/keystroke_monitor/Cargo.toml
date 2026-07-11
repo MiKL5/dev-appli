@@ -1,0 +1,8 @@
+[package]
+name = "keystroke_monitor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ctrlc = "3.5.2"
+device_query = "4.0.1"
