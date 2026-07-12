@@ -68,7 +68,7 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 <!-- 1. [Création d'une session vidéo](.exercises/BaseVideoCoreML) -->
 <br>
 <div align="center">
-    <h2><a href="projects"><b><i>➜ Aller voir</i></b></a></h2>
+    <h2><a href="projects/swift"><b><i>➜ Aller voir</i></b></a></h2>
 </div><br>
 
 <!-- ## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
@@ -93,10 +93,14 @@ Polyvalent, il couvre aussi bien le développement système et embarqué, les se
 <br>
 
 1. [Calculatrice modulaire](projects/rust/calculator)
+2. [Keystroke monitor](projects/rust/keystroke_monitor)
+3. [Sentinel vault](projects/rust/sentinel_vault)
 
-<!-- <div align="center">
-    <h2><a href=""><b><i>➜ Tout voir</i></b></a></h2>
-</div><br> -->
+
+<div align="center">
+    <h2><a href="miniProjects/rust"><b><i>➜ Voir les minis projets</i></b></a></h2>
+    <h2><a href="projects/rust"><b><i>➜ Voir les projets</i></b></a></h2>
+</div><br>
 <br><br>
 
 <!--## **C#** <a href=https://github.com/MiKL5><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
