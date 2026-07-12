@@ -4,15 +4,15 @@
 ---
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-RustCrypto-2ea44f?style=for-the-badge) 
-![Keyring](https://img.shields.io/badge/Keyring-OS%20Native%20Store-orange?style=for-the-badge) 
-![Cross Platform](https://img.shields.io/badge/Cross--Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=for-the-badge) 
-![Memory Safety](https://img.shields.io/badge/Memory%20Safety-Guaranteed-brightgreen?style=for-the-badge) 
-![Zero Unsafe](https://img.shields.io/badge/unsafe-0%25-success?style=for-the-badge) 
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) 
-![Cargo](https://img.shields.io/badge/Cargo-DEA584?style=for-the-badge&logo=rust&logoColor=black) 
-![RGPD](https://img.shields.io/badge/RGPD-Compliant-purple?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?style=rounded&logo=rust&logoColor=white) 
+![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-RustCrypto-2ea44f?style=rounded) 
+![Keyring](https://img.shields.io/badge/Keyring-OS%20Native%20Store-orange?style=rounded) 
+![Cross Platform](https://img.shields.io/badge/Cross--Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=rounded) 
+![Memory Safety](https://img.shields.io/badge/Memory%20Safety-Guaranteed-brightgreen?style=rounded) 
+![Zero Unsafe](https://img.shields.io/badge/unsafe-0%25-success?style=rounded) 
+![License](https://img.shields.io/badge/License-MIT-blue?style=rounded) 
+![Cargo](https://img.shields.io/badge/Cargo-DEA584?style=rounded&logo=rust&logoColor=black) 
+![RGPD](https://img.shields.io/badge/RGPD-Compliant-purple?style=rouned)
 
 </div>
 
