@@ -186,4 +186,8 @@ Ce projet ne relève pas du champ d'application du règlement IA-Act, ne mettant
 </details>
 
 ## 📄 Licence
-Distribué sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Distribué sous licence MIT. Voir le fichier [`LICENSE`](license) pour plus de détails.
+
+<div align="center">
+
+[Haut](#️-sentinelvault) · [License](license) · [Sécurité](security.md)
