@@ -170,3 +170,7 @@ miniProjects/rust/persona_snippet/target/
 miniProjects/rust/rgba2hexa/target/
 projects/rust/keystroke_monitor/target/
 miniProjects/rust/zotero_bib_minifier/target/
+projects/rust/sentinel_vault/target/
+projects/rust/sentinel_vault/cargo.lock
+projects/rust/rust_lake/target/
+projects/rust/rust_lake/cargo.lock
