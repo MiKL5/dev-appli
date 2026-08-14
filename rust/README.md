@@ -4,10 +4,11 @@
 1. [Calculatrice modulaire](../projects/rust/calculator)
 2. [Keystroke monitor](../projects/rust/keystroke_monitor)
 3. [Sentinel vault](../projects/rust/sentinel_vault)
-## **Minis projets**
-4. [Calculatrice](../miniProjects/rust/calculator)
-5. [Formated nomination](../miniProjects/rust/formatted_nomination)
-6. [Persona snipets](../miniProjects/rust/persona_snippet)
-7. [RGB2Hexa](../miniProjects/rust/rgba2hexa)
+
+## **Mini projets**
+1. [Calculatrice](../miniProjects/rust/calculator)
+2. [Formated nomination](../miniProjects/rust/formatted_nomination)
+3. [Persona snipets](../miniProjects/rust/persona_snippet)
+4. [RGB2Hexa](../miniProjects/rust/rgba2hexa)
 
 <div align="center"><a href="../"><img src="../assets/images/rust.webp" alt="Rust" height="400"></a></div>
