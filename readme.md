@@ -13,21 +13,40 @@
 [Validateur de carte de crédit](https://github.com/MiKL5/Python/blob/master/miniProjets/creditCardValidator)  
 [Calculatrice avec opérations multiples](https://github.com/MiKL5/Python/blob/master/miniProjets/calculator)  
 [Conversion d’entier et de binaire](https://github.com/MiKL5/Python/blob/master/miniProjets/integerBinaryConversion)  
-[Calcul d’addresse et de masque réseau](https://github.com/MiKL5/Python/blob/master/miniProjets/networkAdressMask)  
+[Calcul d’adresse et de masque réseau](https://github.com/MiKL5/Python/blob/master/miniProjets/networkAdressMask)  
 [L’année de naissance](https://github.com/MiKL5/Python/blob/master/miniProjets/ageAndYearOfBirth)  
 [Liste de lecture](https://github.com/MiKL5/Python/blob/master/miniProjets/bookslist)  
 [Liste de lecture dans un fichier CSV](https://github.com/MiKL5/Python/blob/master/miniProjets/booklist2)  
-[Les 50 premiers nombres premier](https://github.com/MiKL5/Python/blob/master/miniProjets/ListPrimeNumber)  
+[Les 50 premiers nombres premiers](https://github.com/MiKL5/Python/blob/master/miniProjets/ListPrimeNumber)  
 [Dictionnaire de villes](https://github.com/MiKL5/Python/blob/master/miniProjets/dictionaryOfCities)  
 [Gestion de personnages](https://github.com/MiKL5/Python/blob/master/miniProjets/characterManagement)
 
 <br>
 <div align="center">
-    <h2><a href="https://github.com/MiKL5/Python"><b><i>➜ Tout voir</i></b></a></h2>
+    <h2><a href="https://github.com/MiKL5/Python"><b><i>➜ Voir +</i></b></a></h2>
 </div><br>
 
-### **Projets avec Jupyter Notbook** <a href="https://github.com/MiKL5/"><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
+### **Projets avec Jupyter Notebook** <a href="https://github.com/MiKL5/"><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 
+<details>
+  <summary>Anaconda</summary>
+Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.
+
+Son gestionnaire de paquets intégré, `conda`, permet de créer des environnements virtuels isolés et reproductibles, évitant les conflits de dépendances qui fragilisent les projets en production. Il préinstalle nativement les librairies incontournables de l'écosystème data : NumPy, Pandas, scikit-learn, Matplotlib etc.
+
+Il est la référence pour tout projet d'IA ou de machine learning, du prototype jusqu'au déploiement enterprise.
+</details>
+<br>
+
+<!-- #### **Machine Learning** -->
+
+<!-- > <h4>🧬 Apprentissage non supervisé</h4> -->
+
+<div align="center">
+    <h2><a href="https://github.com/MiKL5/machineLearning"><b><i>➜ Voir +</i></b></a></h2>
+</div><br>
+
+## **Swift** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="64px"></a>
 <details>
   <summary>Swift ➜ Le langage moderne, rapide et sécurisé pour écosystème Apple</summary>
   Rapide, sécurisé et facile à lire, il est conçu spécialement pour développer des applications pour les plateformes Apple.
@@ -43,52 +62,20 @@
 
   Dévoilé officiellement lors de la WWDC 2014 par **Craig Federighi**, vice-président logiciel d'Apple, il est supporté par de nombreux OS, dont ceux d'Apple, Linux ainsi que des supports non officiels avec certaines plateformes.
 </details>
-<br>
 
-<!-- #### **Machine Learning** -->
-
-<!-- > <h4>🧬 Apprentissage non supervisé</h4> -->
-
-<div align="center">
-    <h2><a href="https://github.com/MiKL5/machineLearning"><b><i>➜ Aller voir</i></b></a></h2>
-</div><br>
-
-## **Swift** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="64px"></a>
-
-<details>
-  <summary>Anaconda</summary>
-Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.
-
-Son gestionnaire de paquets intégré, `conda`, permet de créer des environnements virtuels isolés et reproductibles, évitant les conflits de dépendances qui fragilisent les projets en production. Il préinstalle nativement les librairies incontournables de l'écosystème data : NumPy, Pandas, scikit-learn, Matplotlib etc.
-
-Il est la référence pour tout projet d'IA ou de machine learning, du prototype jusqu'au déploiement enterprise.
-</details>
-
-### **Mini-projets**
+### **Mini projets**
 1. PetBook
 2. [Where is the chicken?](projects/swift/whereIsTheChicken)
 <!-- 3. FoodApp <kbd>_Wip_</kbd> -->
 ### **Exercice**
-1. [Les intereactions avec l’utilisateur](exercises/howToInteract)
+1. [Les interactions avec l’utilisateur](exercises/howToInteract)
 <!-- 1. [Création d'une session vidéo](.exercises/BaseVideoCoreML) -->
 <br>
 <div align="center">
-    <h2><a href="projects/swift"><b><i>➜ Aller voir</i></b></a></h2>
+    <h2><a href="projects/swift"><b><i>➜ Voir +</i></b></a></h2>
 </div><br>
 
-<!-- ## **Java** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Langage Java" align="right" height="64px"></a>
-
-<div align="center">
-    <h2><a href="https://github.com/MiKL5/Java"><b><i>➜ Tout voir</i></b></a></h2>
-</div><br> -->
-
-<!-- ## **Flutter**
-
-<div align="center">
-    <h2><a href="https://github.com/MiKL5/Flutter"><b><i>➜ Tout voir</i></b></a></h2>
-</div><br> -->
-
-## **Rust** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rusgt" align="right" height="64px"></a>
+## **Rust** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rust" align="right" height="64px"></a>
 <details>
   <summary>Rust ➜ Le langage système ultra-rapide et sécurisé par conception</summary>
   C'est un langage de programmation compilé orienté systèmes, conçu pour offrir des performances comparables au C/C++ tout en garantissant la sûreté mémoire structurellement — sans garbage collector ni runtime.
@@ -103,16 +90,6 @@ Il est la référence pour tout projet d'IA ou de machine learning, du prototype
 2. [Keystroke monitor](projects/rust/keystroke_monitor)
 3. [Sentinel vault](projects/rust/sentinel_vault)
 
-
 <div align="center">
-    <h2><a href="miniProjects/rust"><b><i>➜ Voir les minis projets</i></b></a></h2>
-    <h2><a href="projects/rust"><b><i>➜ Voir les projets</i></b></a></h2>
-</div><br>
-<br><br>
-
-<!--## **C#** <a href=https://github.com/MiKL5><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
-
-[Pong](projects/pong) <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>-->
-<!-- [Puissance4](projects/p4) <kbd>_**Wip**_</kbd> <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>   -->
-<!-- [Taxi autonome](projects/practice1) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
-<!-- [Casse-briques](projects/brickBreaker) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
+    <h2><a href="rust"><b><i>➜ Voir +</i></b></a></h2>
+</div>
