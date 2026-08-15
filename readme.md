@@ -24,7 +24,7 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
     <h2><a href="https://github.com/MiKL5/Python"><b><i>➜ Tout voir</i></b></a></h2>
 </div><br>
 
-### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
+### **Projets avec Jupyter Notbook** <a href="https://github.com/MiKL5/"><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 
 Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.
 
