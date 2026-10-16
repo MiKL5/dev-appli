@@ -9,7 +9,6 @@
 </details>
 
 ### **Mini projets**
-
 [Validateur de carte de crédit](https://github.com/MiKL5/Python/blob/master/miniProjets/creditCardValidator)  
 [Calculatrice avec opérations multiples](https://github.com/MiKL5/Python/blob/master/miniProjets/calculator)  
 [Conversion d’entier et de binaire](https://github.com/MiKL5/Python/blob/master/miniProjets/integerBinaryConversion)  
@@ -29,9 +28,7 @@
 ### **Projets avec Jupyter Notebook** <a href="https://github.com/MiKL5/"><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 
 <details>
-  <summary>Anaconda</summary>
-Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.
-
+  <summary>Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.<br><br></summary>
 Son gestionnaire de paquets intégré, `conda`, permet de créer des environnements virtuels isolés et reproductibles, évitant les conflits de dépendances qui fragilisent les projets en production. Il préinstalle nativement les librairies incontournables de l'écosystème data : NumPy, Pandas, scikit-learn, Matplotlib etc.
 
 Il est la référence pour tout projet d'IA ou de machine learning, du prototype jusqu'au déploiement enterprise.
