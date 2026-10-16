@@ -4,7 +4,6 @@
 1. [Calculatrice modulaire](../projects/rust/calculator)
 2. [Keystroke monitor](../projects/rust/keystroke_monitor)
 3. [Sentinel vault](../projects/rust/sentinel_vault)
-
 ## **Mini projets**
 1. [Calculatrice](../miniProjects/rust/calculator)
 2. [Formated nomination](../miniProjects/rust/formatted_nomination)
