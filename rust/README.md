@@ -1,4 +1,4 @@
-# **Langage Rust**<a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Langage Rusgt" align="right" height="64px"></a>
+# **Langage Rust**<a href="https://github.com/MiKL5/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white#gh-dark-mode-only"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" align="right" height="64"></picture></a>
 
 ## **Projets**
 1. [Calculatrice modulaire](../projects/rust/calculator)
