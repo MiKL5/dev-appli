@@ -1,30 +1,78 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#e87562",
-        "activityBar.background": "#e87562",
-        "editorGroup.border": "#e87562",
-        "panel.border": "#e87562",
-        "sash.hoverBorder": "#e87562",
-        "sideBar.border": "#e87562",
-        "statusBar.background": "#e24e35",
-        "statusBar.border": "#e24e35",
-        "statusBar.debuggingBackground": "#35c9e2",
-        "statusBar.debuggingBorder": "#35c9e2",
-        "statusBarItem.hoverBackground": "#e87562",
-        "statusBarItem.remoteBackground": "#e24e35",
-        "titleBar.activeBackground": "#e24e35",
-        "titleBar.border": "#e24e35",
-        "titleBar.inactiveBackground": "#e24e3599",
-        "activityBar.foreground": "#15202b",
-        "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#90ef9d",
-        "activityBarBadge.foreground": "#15202b",
-        "commandCenter.border": "#e7e7e799",
-        "statusBar.debuggingForeground": "#15202b",
-        "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.remoteForeground": "#e7e7e7",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        // ── Barre d'activités (colonne d'icônes à gauche) ──
+        "activityBar.activeBackground": "#ff7a2e", // Fond de l'icône sélectionnée
+        "activityBar.activeBorder": "#000000", // Trait marquant l'icône sélectionnée
+        "activityBar.background": "#e24e35", // Fond de toute la barre
+        "activityBar.foreground": "#000000", // Couleur des icônes actives
+        "activityBar.inactiveForeground": "#4a1208", // Couleur des icônes non sélectionnées
+        "activityBarBadge.background": "#35c9e2", // Fond de la pastille de notification
+        "activityBarBadge.foreground": "#000000", // Chiffre dans la pastille
+        // ── Barre d'activités en position haute (si placée en haut) ──
+        "activityBarTop.activeBackground": "#ff7a2e", // Fond de l'icône sélectionnée
+        "activityBarTop.activeBorder": "#000000", // Trait de l'icône sélectionnée
+        "activityBarTop.background": "#e24e35", // Fond de la barre
+        "activityBarTop.foreground": "#000000", // Icônes actives
+        "activityBarTop.inactiveForeground": "#4a1208", // Icônes inactives
+        // ── Centre de commandes (champ de recherche en haut) ──
+        "commandCenter.border": "#000000", // Contour du champ de recherche
+        "commandCenter.foreground": "#000000", // Texte du champ de recherche
+        // ── Séparateurs et bordures de l'interface ──
+        "editorGroup.border": "#e24e35", // Séparation entre groupes d'éditeurs
+        "editorGroupHeader.tabsBackground": "#0b1d26", // Bande derrière les onglets
+        "editorGroupHeader.noTabsBackground": "#0b1d26", // Bande d'en-tête sans onglets
+        "panel.border": "#e24e35", // Bordure du panneau du bas (terminal)
+        "sash.hoverBorder": "#35c9e2", // Bordure au survol d'un séparateur redimensionnable
+        "sideBar.border": "#e24e35", // Bordure de la barre latérale
+        // ── Barre d'état (barre du bas) ──
+        "statusBar.background": "#ff6a00", // Fond de la barre
+        "statusBar.border": "#ff6a00", // Bordure supérieure de la barre
+        "statusBar.debuggingBackground": "#20df3c", // Fond pendant le débogage
+        "statusBar.debuggingBorder": "#20df3c", // Bordure pendant le débogage
+        "statusBar.debuggingForeground": "#000000", // Texte pendant le débogage
+        "statusBar.foreground": "#000000", // Texte de la barre
+        "statusBar.inactiveBackground": "#ff9a4d", // Fond quand la fenêtre est inactive
+        "statusBarItem.hoverBackground": "#fd5900", // Fond d'un élément survolé
+        "statusBarItem.hoverForeground": "#ffffff", // Texte d'un élément survolé
+        "statusBarItem.remoteBackground": "#35c9e2", // Fond du bouton distant (SSH, WSL, conteneur)
+        "statusBarItem.remoteForeground": "#000000", // Texte du bouton distant
+        // ── Onglets ──
+        "tab.activeBackground": "#fe7702", // Fond de l'onglet actif
+        "tab.activeForeground": "#000000", // Texte de l'onglet actif
+        "tab.activeBorder": "#0b1d26", // Trait sous l'onglet actif
+        "tab.activeModifiedBorder": "#0b1d26", // Trait de l'onglet actif modifié non enregistré
+        "tab.border": "#e24e35", // Séparateur entre deux onglets
+        "tab.hoverBackground": "#fe4400", // Fond d'un onglet survolé
+        "tab.hoverForeground": "#ffffff", // Texte d'un onglet survolé
+        "tab.inactiveBackground": "#0b1d26", // Fond des onglets inactifs
+        "tab.inactiveForeground": "#ffcfb8", // Texte des onglets inactifs
+        "tab.inactiveModifiedBorder": "#35c9e2", // Trait d'un onglet inactif modifié non enregistré
+        "tab.lastPinnedBorder": "#e24e35", // Séparation après le dernier onglet épinglé
+        // ── Onglets d'un groupe d'éditeurs sans focus ──
+        "tab.unfocusedActiveBackground": "#ffd595", // Fond de l'onglet actif (groupe non focalisé)
+        "tab.unfocusedActiveBorder": "#0b1d26", // Trait de l'onglet actif (groupe non focalisé)
+        "tab.unfocusedActiveForeground": "#000000", // Texte de l'onglet actif (groupe non focalisé)
+        "tab.unfocusedHoverBackground": "#02011c", // Fond au survol (groupe non focalisé)
+        "tab.unfocusedHoverForeground": "#ffffff", // Texte au survol (groupe non focalisé)
+        "tab.unfocusedInactiveBackground": "#0b1d26", // Fond des onglets inactifs (groupe non focalisé)
+        "tab.unfocusedInactiveForeground": "#ffcfb8", // Texte des onglets inactifs (groupe non focalisé)
+        "tab.unfocusedInactiveModifiedBorder": "#35c9e2", // Trait « modifié » des onglets inactifs (groupe non focalisé)
+        // ── Barre de titre (haut de la fenêtre) ──
+        "titleBar.activeBackground": "#ff7a2e", // Fond quand la fenêtre est active
+        "titleBar.activeForeground": "#000000", // Texte quand la fenêtre est active
+        "titleBar.border": "#e24e3599", // Bordure inférieure (semi-transparente)
+        "titleBar.inactiveBackground": "#836e56", // Fond quand la fenêtre est inactive
+        "titleBar.inactiveForeground": "#02011c", // Texte quand la fenêtre est inactive
+        // ── Contour de la fenêtre ──
+        "window.activeBorder": "#e24e35", // Contour de la fenêtre active
+        "window.inactiveBorder": "#e24e3599" // Contour de la fenêtre inactive (semi-transparent)
     },
-    "peacock.color": "#e24e35"
+    // ── Extension Peacock ──
+    "peacock.color": "#e24e35", // Couleur de base de Peacock pour ce workspace
+    "peacock.affectStatusBar": false, // Peacock ne touche plus à la barre d'état
+    "peacock.affectActivityBar": false, // Peacock ne touche plus à la barre d'activités
+    // ── Autres extensions ──
+    "CodeGPT.query.language": "French", // CodeGPT répond en français
+    "excalidraw.language": "fr-FR", // Interface Excalidraw en français
+    "dotnet.defaultSolution": "disable" // Désactive le choix automatique d'une solution .NET
 }
