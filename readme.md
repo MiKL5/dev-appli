@@ -8,7 +8,7 @@
 
 </div>
 
-## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/main/assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
+## **Python**<a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/main/assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 <details>
     <summary>Python : Un langage polyvalent et puissant</summary>
@@ -32,7 +32,7 @@
 <br>
 <div align="center"><h2><a href="https://github.com/MiKL5/Python"><b><i><span aria-hidden="true">➜ </span>Explorer tous les projets Python</i></b></a></h2></div><br>
 
-### **Projets avec Jupyter Notebook** <a href="https://github.com/MiKL5/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jupyter/white"><source media="(prefers-color-scheme: light)" srcset="assets/images/Jupyter.svg"><img src="assets/images/Jupyter.svg" alt="Jupyter Notebook" height="64" style="float: right;"></picture></a>
+### **Projets avec Jupyter Notebook**<a href="https://github.com/MiKL5/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jupyter/white"><source media="(prefers-color-scheme: light)" srcset="assets/images/Jupyter.svg"><img src="assets/images/Jupyter.svg" alt="Jupyter Notebook" align="right" height="64"></picture></a>
 
 <details>
     <summary>Anaconda est une distribution Python open source conçue pour simplifier la gestion des paquets, des dépendances et des environnements de développement dédiés à la data science et à l'intelligence artificielle.<br><br></summary>
@@ -76,7 +76,7 @@ Il est la référence pour tout projet d'IA ou de machine learning, du prototype
 <p align="center">SwiftUI et Xcode en pratique, du jeu « Where is the chicken? » aux interactions avec l’utilisateur.<br><b><a href="projects/swift">Parcourir mes projets Swift <span aria-hidden="true">➜</span></a></b></p><br>-->
 
 
-## **Rust** <a href="https://github.com/MiKL5/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white#gh-dark-mode-only"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" align="right" height="64"></picture></a>
+## **Rust**<a href="https://github.com/MiKL5/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white#gh-dark-mode-only"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" align="right" height="64"></picture></a>
 
 <details>
     <summary>Le langage système ultra-rapide et sécurisé par conception</summary>
